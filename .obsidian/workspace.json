@@ -20,6 +20,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "aed0f3b5d663838b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3df23f9dcbeebccd",
+            "type": "leaf",
+            "state": {
+              "type": "hugo-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +161,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "428a61ce6e6fec52",
+  "active": "3df23f9dcbeebccd",
   "lastOpenFiles": [
     "content/posts/blogpost 2.md",
     "content/posts/blogpost 1.md",

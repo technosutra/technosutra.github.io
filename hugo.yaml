@@ -1,0 +1,38 @@
+baseURL: https://technosutra.github.io/
+canonifyurls: true
+relativeURLs: false
+languageCode: ru
+title: T E C H N O S Ū T R A
+theme: PaperMod
+
+params:
+  defaultTheme: dark
+  homeInfoParams:
+    Title: "Просто Техноблог"
+    Content: >-
+      technosutra.      
+  socialIcons:
+  - name: "youtube"
+    url: "https://youtube.com"
+  - name: "telegram"
+    url: "https://telegram.org"
+  - name: email
+    url: 'mailto:m.mihailov@me.com'
+
+assets:
+  favicon16x16: /assets/favicon-16x16.png
+  favicon32x32: /assets/favicon-32x32.png
+  apple_touch_icon: /assets/apple-touch-icon.png
+
+favicon: favicon.ico
+
+menu:
+  main:
+  - identifier: home
+    name: Home
+    url: /
+    weight: 10
+  - identifier: posts
+    name: Блог
+    url: /posts/
+    weight: 20

@@ -20,6 +20,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "8b99bbfb5d366e9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67d696f9031795c9",
+            "type": "leaf",
+            "state": {
+              "type": "hugo-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,9 +158,11 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false,
+      "hugo-publish:hugo sync": false
     }
   },
-  "active": "03514d7c5d6311b9",
+  "active": "67d696f9031795c9",
   "lastOpenFiles": []
 }

@@ -4,32 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b7b7e1b5acc482b7",
+        "id": "2658241cbe8f8560",
         "type": "tabs",
         "children": [
           {
-            "id": "03514d7c5d6311b9",
+            "id": "428a61ce6e6fec52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/blogpost.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8b99bbfb5d366e9c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "67d696f9031795c9",
-            "type": "leaf",
-            "state": {
-              "type": "hugo-preview-view",
+              "type": "empty",
               "state": {}
             }
           }
@@ -100,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/blogpost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/blogpost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/posts/blogpost.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,6 +141,8 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "67d696f9031795c9",
-  "lastOpenFiles": []
+  "active": "428a61ce6e6fec52",
+  "lastOpenFiles": [
+    "content/posts/blogpost.md"
+  ]
 }
